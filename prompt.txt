@@ -1,0 +1,4 @@
+Create a responsive web page using Bootstrap 5, styled with custom HTML and CSS.
+The layout should match with attached wireframe and include the following sections:
+Login page with a two -column layout, an image part on the left side and a login form from the right.
+Color: #006d77, #83c5be, #edf6f9
