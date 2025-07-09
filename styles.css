@@ -1,0 +1,26 @@
+body {
+  background-color: #edf6f9;
+}
+
+.img-side {
+  background-color: #83c5be;
+}
+
+.image-placeholder {
+  font-size: 2rem;
+  color: #fff;
+}
+
+.text-main {
+  color: #006d77;
+}
+
+.btn-primary {
+  background-color: #006d77;
+  border-color: #006d77;
+}
+
+.btn-primary:hover {
+  background-color: #005b67;
+  border-color: #005b67;
+}
